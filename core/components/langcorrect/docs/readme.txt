@@ -1,10 +1,17 @@
 --------------------
 LangCorrect
 --------------------
-Author: John Doe <john@doe.com>
+Author: Ilya Utkin <ilyautkin@mail.ru>
 --------------------
 
-A basic Extra for MODx Revolution.
+Automatic correction of the language for words
+in the text because of the wrong keyboard layout
+
+Need PHP 5.3
+
+Uses Text_LangCorrect plugin from
+https://code.google.com/p/php-lang-correct/
+Author: rin.nas.77
 
 Feel free to suggest ideas/improvements/bugs on GitHub:
-http://github.com/username/LangCorrect/issues
+http://github.com/ilyautkin/LangCorrect/issues
