@@ -17,3 +17,4 @@ $_lang['langcorrect_items_remove_confirm'] = 'Вы уверены, что хот
 $_lang['langcorrect_item_remove_confirm'] = 'Вы уверены, что хотите удалить этот Предмет?';
 $_lang['langcorrect_item_update'] = 'Изменить Предмет';
 $_lang['langcorrect_intro_msg'] = 'Управляйте вашими предметами.';
+$_lang['langcorrect_success_msg'] = 'В исходной строке <strong>[[+text]]</strong> изменена раскладка клавиатуры';

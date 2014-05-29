@@ -17,3 +17,4 @@ $_lang['langcorrect_items_remove_confirm'] = 'Are you sure you want to remove se
 $_lang['langcorrect_item_remove_confirm'] = 'Are you sure you want to remove this Item?';
 $_lang['langcorrect_item_update'] = 'Update Item';
 $_lang['langcorrect_intro_msg'] = 'Manage your items.';
+$_lang['langcorrect_success_msg'] = 'In the original string <strong>[[+text]]</strong> changed the keyboard layout';
